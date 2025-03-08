@@ -1,0 +1,12 @@
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+"http://www.WAPforum.org/DTD/wml_1.1.xml">
+<wml>
+<card id="card1" ontimer="test.wml">
+<timer name="next" value="50" />
+<p>
+<h1>
+This page will go to test.wml page in 5 seconds.
+</h1>
+</p>
+</card>
+</wml>

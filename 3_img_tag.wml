@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+"http://www.WAPforum.org/DTD/wml_1.1.xml">
+<wml>
+<card id="card1" title="Card 1">
+<p>
+<img id="image27" src="test.jpg" alt="The Image" height="800" width="400"/>
+</p>
+</card>
+</wml>

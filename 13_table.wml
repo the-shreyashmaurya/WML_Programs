@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.2//EN"
+"http://www.wapforum.org/DTD/wml12.dtd">
+<head>
+ <title>Table</title>
+
+</head>
+<style>
+#head{
+ color:black;
+ text-align:centre;
+ margin-top:-500px;
+ padding-left:380px;
+ font-size:47px;
+ display:block;
+ text-align:centre;
+}
+img{
+ margin-left:auto;
+ display:flex;
+ margin-right:auto;
+
+}
+table, th, td {
+ border: 1px solid black;
+ border-collapse: collapse;
+}
+th, td {
+ padding: 5px;
+ text-align: left;
+}
+* footer{
+ display: table;
+ text-align: center;
+ margin-left: 50%;
+ margin-right: 50%;
+}
+</style>
+
+
+<wml>
+ 
+ <card id="one" title="First Card">
+ <h1 id= "head" ><b>
+Tables</b>
+ </h1>
+
+
+
+<h2>Horizontal Headings:</h2>
+<table style="width:100%">
+ <tr>
+ <th>Country</th>
+ <th>City</th>
+
+ </tr>
+ <tr>
+ <td>India</td>
+ <td>Pune </td>
+
+ </tr>
+</table>
+<br>
+
+<h2>Vertical Headings:</h2>
+<table style="width:100%">
+ <tr>
+ <th>Country</th>
+ <td>India</td>
+ </tr>
+ <tr>
+ <th>City</th>
+ <td>Pune </td>
+ </tr>
+ 
+</table>
+</wml>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+"http://www.WAPforum.org/DTD/wml_1.1.xml">
+<wml>
+
+<card id="card1" ontimer="#card2">
+<timer value="50" />
+<p>
+<h1> Hello Everyone </h1>
+</p>
+</card>
+
+<card id="card2">
+<onevent type="ontimer">
+<prev />
+</onevent>
+<timer value="50" />
+<p>
+<h1>Okk Byee !!</h1>
+</p>
+</card>
+
+</wml>

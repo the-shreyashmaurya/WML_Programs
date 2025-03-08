@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.3//EN" "http://www.wapforum.org/DTD/wml13.dtd">
+
+<wml>
+  <card id="card2" title="WML Tutorial">
+    <header><p>Welcome</p></header>
+</card>
+<footer>
+ <p>This is Footer</p>
+</footer>
+</wml>
