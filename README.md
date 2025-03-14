@@ -1,4 +1,4 @@
-# WML Programs  
+# WML Programs   
 
 This repository contains a collection of **WML (Wireless Markup Language)** programs, demonstrating various functionalities and features of WML.   
 
