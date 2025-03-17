@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
 "http://www.WAPforum.org/DTD/wml_1.1.xml">
-<wml>
+<wml> 
 
 <card id="card1" ontimer="#card2">
 <timer value="50" />
